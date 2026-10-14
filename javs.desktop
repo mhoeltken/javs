@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=JAVS
+Comment=Just Another VPN Switch - VPN status in the tray
+Exec=python3 @INSTALL_DIR@/javs/tray.py
+Icon=network-vpn
+Terminal=false
+Categories=Network;Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
